@@ -16,8 +16,13 @@ public class Matriser {
 
 	// b)
 	public static String tilStreng(int[][] matrise) {
-
-        // TODO
+        StringBuilder sb = new StringBuilder();
+        for(int[] rad : matrise) {
+            for(int tall : rad){
+                sb.append(tall + " ");
+            }
+            sb.append("\n");
+        }
 
 		throw new UnsupportedOperationException("Metoden tilStreng ikke implementert");
 		
@@ -40,9 +45,21 @@ public class Matriser {
 	// d)
 	public static boolean erLik(int[][] a, int[][] b) {
 
-		// TODO
-		throw new UnsupportedOperationException("Metoden erLik ikke implementert");
-		
+		if(a.length != b.length){
+            return false;
+        }
+        for(int i = 0; i < a.length; i++){
+            if(a[i].length != b[i].length){
+                return false;
+            }
+        }
+
+        for(int j = 0; j < b.length; j++) {
+            if(a[1][j] != b[1][j]){
+                return false;
+            }
+        }
+        return true;
 	}
 	
 	// e)

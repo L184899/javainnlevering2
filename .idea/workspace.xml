@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3eff28b0-38b7-47eb-9819-c0f636b8b6d2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/no/hvl/dat100/matriser/Matriser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/no/hvl/dat100/matriser/Matriser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/no/hvl/dat100/tabeller/Tabeller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/no/hvl/dat100/tabeller/Tabeller.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +63,6 @@
     <attachedChunks>
       <set>
         <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
       </set>
     </attachedChunks>
   </component>
@@ -85,6 +78,9 @@
       <workItem from="1758620513578" duration="99000" />
       <workItem from="1758701517944" duration="509000" />
       <workItem from="1758705428946" duration="685000" />
+      <workItem from="1758706138970" duration="850000" />
+      <workItem from="1758789861139" duration="599000" />
+      <workItem from="1758799748238" duration="26000" />
     </task>
     <servers />
   </component>
