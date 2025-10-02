@@ -62,7 +62,7 @@ public class Matriser {
         return true;
 	}
 	
-	// e)
+	// e)**
 	public static int[][] speile(int[][] matrise) {
 
 		// TODO
@@ -71,7 +71,7 @@ public class Matriser {
 	
 	}
 
-	// f)
+	// f)**
 	public static int[][] multipliser(int[][] a, int[][] b) {
 
 		// TODO
