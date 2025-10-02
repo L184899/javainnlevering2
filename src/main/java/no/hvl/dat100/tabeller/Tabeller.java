@@ -86,13 +86,11 @@ public class Tabeller {
 	public static int[] settSammen(int[] tabell1, int[] tabell2) {
 
                 int[] nyTabell = new int[tabell1.length + tabell2.length];
-
-                // kopierer tabell1 inn først
+                
                 for (int i = 0; i < tabell1.length; i++) {
                     nyTabell[i] = tabell1[i];
                 }
 
-                // kopierer tabell2 etter tabell1
                 for (int i = 0; i < tabell2.length; i++) {
                     nyTabell[tabell1.length + i] = tabell2[i];
                 }
